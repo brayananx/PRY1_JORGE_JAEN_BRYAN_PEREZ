@@ -1,11 +1,13 @@
 /**********************************************************************
-    Instituto Tecnológico de Costa Rica
+    Instituto TecnolÃ³gico de Costa Rica
     Estructuras de Datos IC-2001
     I Semestre 2018
     Profesora: Samanta Ramijan Carmiol
     Carnet: 9104658
-	Alumno: Jorge Jaén Ríos
-	Proyecto: Listas enlazadas.
+    	    2017120035
+    Alumnos: Jorge JaÃ©n RÃ­os
+	     Bryan PÃ©rez Rojas	
+    Proyecto: Listas enlazadas.
 **********************************************************************/
 #include <stdio.h>
 #include <string.h>
