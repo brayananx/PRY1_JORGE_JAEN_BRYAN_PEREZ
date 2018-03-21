@@ -1,10 +1,12 @@
 /**********************************************************************
-    Instituto Tecnol骻ico de Costa Rica
+    Instituto Tecnol贸gico de Costa Rica
     Estructuras de Datos IC-2001
     I Semestre 2018
     Profesora: Samanta Ramijan Carmiol
     Carnet: 9104658
-	Alumno: Jorge Ja閚 R韔s
+    	    2017120035
+	Alumno: Jorge Ja茅n R铆os
+		Bryan P茅rez Rojas
 	Proyecto: Listas enlazadas.
 **********************************************************************/
 
@@ -13,12 +15,12 @@
 
 	#define ProyectoProgramado_h
 	
-	//Declaraci髇 de constantes globales
+	//Declaraci贸n de constantes globales
 	#define EXTENSION ".txt"
 	#define CARPETA "/ascii/"
 	#define ARCHIVOREGISTRO "registroNodos.txt"
 
-	//Declaraci髇 de la estructura del Nodo
+	//Declaraci贸n de la estructura del Nodo
 	typedef struct listaElemento{
 		char nombre[18];
 	}listaElemento;
@@ -29,7 +31,7 @@
 		struct listaNodo* anterior;
 	}listaNodo;
 
-	//Declaraci髇 de las variables globales de tipo nodo
+	//Declaraci贸n de las variables globales de tipo nodo
 	listaNodo *lista,*nuevo;
 	
 	//Verifica si un archivo existe en la ruta indicada y directorio
